@@ -1,44 +1,104 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "title": "Công việc tuần",
-      "content": "Hoàn thành báo cáo dự án trước thứ 6",
-      "priority": 1,
-      "createdAt": "2025-04-08T10:00:00.000Z",
-      "modifiedAt": "2025-04-08T10:00:00.000Z",
-      "tags": ["công việc", "quan trọng"],
-      "color": "#FF5733"
-    },
-    {
-      "id": 2,
-      "title": "Học tập",
-      "content": "Ôn tập chương 4-6 cho kỳ thi cuối kỳ",
-      "priority": 2,
-      "createdAt": "2025-04-09T08:30:00.000Z",
-      "modifiedAt": "2025-04-09T08:30:00.000Z",
-      "tags": ["học tập", "thi cử"],
-      "color": "#33FF57"
-    },
-    {
-      "id": 3,
-      "title": "Sức khỏe",
-      "content": "Đặt lịch khám nha khoa vào thứ 3 tuần sau",
-      "priority": 3,
-      "createdAt": "2025-04-10T14:15:00.000Z",
-      "modifiedAt": "2025-04-10T14:15:00.000Z",
-      "tags": ["sức khỏe"],
-      "color": "#3357FF"
-    },
-    {
-      "id": 4,
-      "title": "Giải trí",
-      "content": "Xem phim mới cuối tuần với bạn bè",
-      "priority": 4,
-      "createdAt": "2025-04-11T09:00:00.000Z",
-      "modifiedAt": "2025-04-11T09:00:00.000Z",
-      "tags": ["vui chơi", "bạn bè"],
-      "color": "#F333FF"
-    }
+  "notes": [
+   {
+    "id": 1,
+    "title": "Workout Plan",
+    "content": "Plan workouts for the week.",
+    "priority": 2,
+    "createdAt": "2025-04-12T10:00:00.000Z",
+    "modifiedAt": "2025-04-12T10:00:00.000Z",
+    "tags": ["fitness", "health"],
+    "color": "#FF5733"
+  },
+  {
+    "id": 2,
+    "title": "Project Ideas",
+    "content": "Brainstorm new project ideas for the next quarter.",
+    "priority": 1,
+    "createdAt": "2025-04-13T11:15:00.000Z",
+    "modifiedAt": "2025-04-13T11:15:00.000Z",
+    "tags": ["work", "brainstorming"],
+    "color": "#33FF57"
+  },
+  {
+    "id": 3,
+    "title": "Travel Plans",
+    "content": "Research destinations for summer vacation.",
+    "priority": 2,
+    "createdAt": "2025-04-14T12:00:00.000Z",
+    "modifiedAt": "2025-04-14T12:00:00.000Z",
+    "tags": ["travel", "vacation"],
+    "color": "#3357FF"
+  },
+  {
+    "id": 4,
+    "title": "Book Recommendations",
+    "content": "List books to read this month.",
+    "priority": 3,
+    "createdAt": "2025-04-15T13:30:00.000Z",
+    "modifiedAt": "2025-04-15T13:30:00.000Z",
+    "tags": ["reading", "books"],
+    "color": "#FF33A1"
+  },
+  {
+    "id": 5,
+    "title": "Home Improvement",
+    "content": "Make a list of home improvement tasks.",
+    "priority": 1,
+    "createdAt": "2025-04-16T14:45:00.000Z",
+    "modifiedAt": "2025-04-16T14:45:00.000Z",
+    "tags": ["home", "improvement"],
+    "color": "#FFD700"
+  },
+  {
+    "id": 6,
+    "title": "Family Gathering",
+    "content": "Plan the family gathering for next month.",
+    "priority": 2,
+    "createdAt": "2025-04-17T15:00:00.000Z",
+    "modifiedAt": "2025-04-17T15:00:00.000Z",
+    "tags": ["family", "event"],
+    "color": "#4CAF50"
+  },
+  {
+    "id": 7,
+    "title": "Cooking Recipes",
+    "content": "Collect new cooking recipes to try.",
+    "priority": 1,
+    "createdAt": "2025-04-18T16:20:00.000Z",
+    "modifiedAt": "2025-04-18T16:20:00.000Z",
+    "tags": ["cooking", "food"],
+    "color": "#FF9800"
+  },
+  {
+    "id": 8,
+    "title": "Financial Review",
+    "content": "Review monthly expenses and savings.",
+    "priority": 3,
+    "createdAt": "2025-04-19T17:10:00.000Z",
+    "modifiedAt": "2025-04-19T17:10:00.000Z",
+    "tags": ["finance", "budget"],
+    "color": "#F44336"
+  },
+  {
+    "id": 9,
+    "title": "Volunteer Work",
+    "content": "Plan volunteer activities for the community.",
+    "priority": 2,
+    "createdAt": "2025-04-20T18:00:00.000Z",
+    "modifiedAt": "2025-04-20T18:00:00.000Z",
+    "tags": ["community", "volunteering"],
+    "color": "#2196F3"
+  },
+  {
+    "id": 10,
+    "title": "Tech Conference",
+    "content": "Register for the upcoming tech conference.",
+    "priority": 1,
+    "createdAt": "2025-04-21T19:30:00.000Z",
+    "modifiedAt": "2025-04-21T19:30:00.000Z",
+    "tags": ["technology", "conference"],
+    "color": "#9C27B0"
+  }
   ]
 }
