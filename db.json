@@ -2,43 +2,43 @@
   "notes": [
     {
       "id": 1,
-      "title": "Test Note",
-      "content": "This is a test note",
-      "priority": 2,
+      "title": "Công việc tuần",
+      "content": "Hoàn thành báo cáo dự án trước thứ 6",
+      "priority": 1,
       "createdAt": "2025-04-08T10:00:00.000Z",
       "modifiedAt": "2025-04-08T10:00:00.000Z",
-      "tags": ["test", "example"],
-      "color": "#FF0000"
+      "tags": ["công việc", "quan trọng"],
+      "color": "#FF5733"
     },
     {
       "id": 2,
-      "title": "Grocery List",
-      "content": "Buy milk, eggs, and bread from the store.",
-      "priority": 1,
+      "title": "Học tập",
+      "content": "Ôn tập chương 4-6 cho kỳ thi cuối kỳ",
+      "priority": 2,
       "createdAt": "2025-04-09T08:30:00.000Z",
       "modifiedAt": "2025-04-09T08:30:00.000Z",
-      "tags": ["shopping", "urgent"],
-      "color": "#00FF00"
+      "tags": ["học tập", "thi cử"],
+      "color": "#33FF57"
     },
     {
       "id": 3,
-      "title": "Meeting Notes",
-      "content": "Discuss project timeline and resource allocation with the team.",
+      "title": "Sức khỏe",
+      "content": "Đặt lịch khám nha khoa vào thứ 3 tuần sau",
       "priority": 3,
       "createdAt": "2025-04-10T14:15:00.000Z",
       "modifiedAt": "2025-04-10T14:15:00.000Z",
-      "tags": ["work", "meeting"],
-      "color": "#0000FF"
+      "tags": ["sức khỏe"],
+      "color": "#3357FF"
     },
     {
       "id": 4,
-      "title": "Personal Reminder",
-      "content": "Call mom at 6 PM today.",
-      "priority": 2,
+      "title": "Giải trí",
+      "content": "Xem phim mới cuối tuần với bạn bè",
+      "priority": 4,
       "createdAt": "2025-04-11T09:00:00.000Z",
       "modifiedAt": "2025-04-11T09:00:00.000Z",
-      "tags": ["personal"],
-      "color": "#FFFF00"
+      "tags": ["vui chơi", "bạn bè"],
+      "color": "#F333FF"
     }
   ]
 }
